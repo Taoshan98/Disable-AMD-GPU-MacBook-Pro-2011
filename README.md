@@ -5,7 +5,7 @@ Guide to disable broken AMD GPU for MacBook Pro 2011
 
 2 - Power on the MacBook holding `option` key and select the USB drive
 
-3 - On Arch Linux's Menu press `e` key go to the end of the line with the right arrow `->` and write `nomdeset` and Enter
+3 - On Arch Linux's Menu press `e` key and go to the end of the line with the right arrow `->` and write `nomdeset` and Enter
 
 4 - Wait for Arch Linux boot up
 
