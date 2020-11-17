@@ -1,6 +1,9 @@
 # Disable-AMD-GPU-MacBook-Pro-2011
 Guide to disable broken AMD GPU for MacBook Pro 2011
 
+Look, when you read "[TAB]" it means "press TAB key"
+
+
 1 - Make a bootable USB with Arch Linux: https://www.archlinux.org/download/ on it using Rufus: https://rufus.ie/
 
 2 - Power on the MacBook holding `option` key and select the USB drive
